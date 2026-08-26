@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 529,
+  "totalCases": 535,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,126 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 538,
+      "title": "像素作物成长素材",
+      "image": "/images/成长序列.png",
+      "imageAlt": "像素作物成长素材",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "像素风格 tilemap 素材，各种蔬菜成长过程。\n\n内容包括：\n- 白菜成长过程\n- 萝卜成长过程\n- 南瓜成长过程\n- 茄子成长过程\n- 辣椒成长过程\n\n每种蔬菜 5 个阶段：\n1. 种子\n2. 幼苗\n3. 小植株\n4. 成熟植株\n5. 可收获状态\n\n要求：\n- 每种蔬菜从左到右排列\n- 同一种蔬菜的 5 个阶段保持连续变化\n- 每个阶段独立成格\n- 适合农场游戏 tilemap\n- 白底\n- 不要文字，不要人物，不要复杂背景",
+      "promptPreview": "像素风格 tilemap 素材，各种蔬菜成长过程。 内容包括： - 白菜成长过程 - 萝卜成长过程 - 南瓜成长过程 - 茄子成长过程 - 辣椒成长过程 每种蔬菜 5 个阶段： 1. 种子 2. 幼苗 3. 小植株 4. 成熟植株 5. 可收获状态 要求： - 每种蔬菜从左到右排列 - 同一种蔬菜的 5 个阶段保持连续变化 - 每个阶段独立成格 - 适合农场游戏 tilemap - 白底 - 不要文字，不要人物，不要复杂背景",
+      "category": "Architecture & Spaces",
+      "styles": [
+        "Character"
+      ],
+      "scenes": [
+        "Travel"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-538"
+    },
+    {
+      "id": 537,
+      "title": "像素换装游戏素材",
+      "image": "/images/换装游戏素材.png",
+      "imageAlt": "像素换装游戏素材",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "像素风格换装游戏素材，女性角色，服饰与饰品素材合集。\n\n内容包括：\n- 基础女性角色身体模板\n- 发型\n- 发饰\n- 耳环\n- 项链\n- 上衣\n- 裙子\n- 外套\n- 鞋子\n- 手持装饰\n\n要求：\n- 所有衣服和饰品都围绕同一个角色模板设计\n- 正面站立姿势\n- 每个素材独立摆放\n- 对齐同一身体比例\n- 像素风格统一\n- 白底或透明背景\n- 不要文字，不要复杂背景",
+      "promptPreview": "像素风格换装游戏素材，女性角色，服饰与饰品素材合集。 内容包括： - 基础女性角色身体模板 - 发型 - 发饰 - 耳环 - 项链 - 上衣 - 裙子 - 外套 - 鞋子 - 手持装饰 要求： - 所有衣服和饰品都围绕同一个角色模板设计 - 正面站立姿势 - 每个素材独立摆放 - 对齐同一身体比例 - 像素风格统一 - 白底或透明背景 - 不要文字，不要复杂背景",
+      "category": "Characters & People",
+      "styles": [
+        "Character"
+      ],
+      "scenes": [
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-537"
+    },
+    {
+      "id": 536,
+      "title": "像素风 UI 套件",
+      "image": "/images/像素风 UI 套件.png",
+      "imageAlt": "像素风 UI 套件",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "游戏像素风 UI 素材套件，全套 UI，只包含 UI 元素，不要填充文字，不要任何可读或不可读文字。\n\n内容包括：\n- 主菜单面板\n- 弹窗面板\n- 普通按钮\n- 高亮按钮\n- 禁用按钮\n- 输入框\n- 血条、蓝条、经验条\n- 物品栏格子\n- 背包边框\n- 小图标边框\n- 关闭按钮\n- 箭头按钮\n- 标签页\n\n要求：\n- 统一像素风格\n- 同一套配色\n- 元素分离排列\n- 白色或透明背景\n- 每个 UI 元素之间留出间距\n- 不要文字，不要数字，不要 logo，不要角色",
+      "promptPreview": "游戏像素风 UI 素材套件，全套 UI，只包含 UI 元素，不要填充文字，不要任何可读或不可读文字。 内容包括： - 主菜单面板 - 弹窗面板 - 普通按钮 - 高亮按钮 - 禁用按钮 - 输入框 - 血条、蓝条、经验条 - 物品栏格子 - 背包边框 - 小图标边框 - 关闭按钮 - 箭头按钮 - 标签页 要求： - 统一像素风格 - 同一套配色 - 元素分离排列 - 白色或透明背景 - 每个 UI 元素之间留出间距 - 不要文字，不要",
+      "category": "UI & Interfaces",
+      "styles": [
+        "UI",
+        "Brand",
+        "Character"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-536"
+    },
+    {
+      "id": 535,
+      "title": "像素苏州园林素材",
+      "image": "/images/苏州园林素材.png",
+      "imageAlt": "像素苏州园林素材",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "2.5D 等距视角，像素风格，中国元素，苏州园林 tilemap 瓦片素材合集。\n\n包含独立组件：\n- 白墙灰瓦\n- 月洞门\n- 花窗墙面\n- 小桥\n- 池塘水面瓦片\n- 假山石\n- 亭子\n- 回廊\n- 石板路\n- 竹子、松树、盆景\n\n要求：\n- 每个组件独立摆放\n- 适合游戏地图编辑器拼接\n- 等距透视一致\n- 低饱和国风配色\n- 白底\n- 不要生成完整大场景\n- 不要文字",
+      "promptPreview": "2.5D 等距视角，像素风格，中国元素，苏州园林 tilemap 瓦片素材合集。 包含独立组件： - 白墙灰瓦 - 月洞门 - 花窗墙面 - 小桥 - 池塘水面瓦片 - 假山石 - 亭子 - 回廊 - 石板路 - 竹子、松树、盆景 要求： - 每个组件独立摆放 - 适合游戏地图编辑器拼接 - 等距透视一致 - 低饱和国风配色 - 白底 - 不要生成完整大场景 - 不要文字",
+      "category": "Architecture & Spaces",
+      "styles": [
+        "Architecture"
+      ],
+      "scenes": [
+        "Travel",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-535"
+    },
+    {
+      "id": 534,
+      "title": "像素瓦片素材",
+      "image": "/images/瓦片素材.png",
+      "imageAlt": "像素瓦片素材",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "2.5D 等距视角，像素风格，中式古风室内 tilemap 瓦片素材合集。\n\n内容包括：\n- 墙体：中式围墙、青砖墙壁、木格隔墙、院墙围栏\n- 地面：实木地板、青砖地砖、木质地板、石砖地面、榻榻米地面\n- 家具：木桌、木椅、长凳、罗汉床、古风木床、书柜、博古架、衣柜、梳妆台、八仙桌、茶几、屏风、木门、木窗\n- 装饰：陶罐、瓷瓶、字画卷轴、烛台、油灯、中式摆件、盆栽、木箱、水缸、布帘、帷幔\n\n风格要求：\n- 国风低饱和配色\n- 复古像素游戏质感\n- 等距透视标准\n- 每个元素彼此分离\n- 白底干净背景\n- 不要文字，不要角色，不要整张大场景",
+      "promptPreview": "2.5D 等距视角，像素风格，中式古风室内 tilemap 瓦片素材合集。 内容包括： - 墙体：中式围墙、青砖墙壁、木格隔墙、院墙围栏 - 地面：实木地板、青砖地砖、木质地板、石砖地面、榻榻米地面 - 家具：木桌、木椅、长凳、罗汉床、古风木床、书柜、博古架、衣柜、梳妆台、八仙桌、茶几、屏风、木门、木窗 - 装饰：陶罐、瓷瓶、字画卷轴、烛台、油灯、中式摆件、盆栽、木箱、水缸、布帘、帷幔 风格要求： - 国风低饱和配色 - 复古像素游戏质",
+      "category": "Architecture & Spaces",
+      "styles": [
+        "Character",
+        "Classical"
+      ],
+      "scenes": [
+        "Food",
+        "Travel",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-534"
+    },
+    {
+      "id": 533,
+      "title": "像素游戏人物",
+      "image": "/images/像素人物.png",
+      "imageAlt": "像素游戏人物",
+      "sourceLabel": "zhang-jian.com",
+      "sourceUrl": "",
+      "prompt": "像素风格游戏人物 sprite sheet，单个角色，四方向行走动画。\n\n画面排版：\n- 一张图分成 4 行，每行 4 帧\n- 第 1 行：正面行走序列\n- 第 2 行：背面行走序列\n- 第 3 行：向右行走序列\n- 第 4 行：向左行走序列\n\n每行帧顺序：\n1. 站立\n2. 左脚迈出\n3. 回到中间\n4. 右脚迈出\n\n要求：\n- 每一帧都是同一个角色\n- 服装、发型、身高、比例保持一致\n- 每个角色占用相同大小的格子\n- 白色或透明背景\n- 像素点阵清晰\n- 不要文字，不要阴影背景，不要复杂场景",
+      "promptPreview": "像素风格游戏人物 sprite sheet，单个角色，四方向行走动画。 画面排版： - 一张图分成 4 行，每行 4 帧 - 第 1 行：正面行走序列 - 第 2 行：背面行走序列 - 第 3 行：向右行走序列 - 第 4 行：向左行走序列 每行帧顺序： 1. 站立 2. 左脚迈出 3. 回到中间 4. 右脚迈出 要求： - 每一帧都是同一个角色 - 服装、发型、身高、比例保持一致 - 每个角色占用相同大小的格子 - 白色或透明背景 -",
+      "category": "Characters & People",
+      "styles": [
+        "Character"
+      ],
+      "scenes": [
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-533"
+    },
     {
       "id": 532,
       "title": "六宫格柠檬饮料微缩广告",
