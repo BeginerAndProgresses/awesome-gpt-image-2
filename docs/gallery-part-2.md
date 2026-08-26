@@ -128,6 +128,80 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 ***
 
+<a name="case-169"></a>
+
+### 例 169：游戏 UI KIT
+
+![游戏 UI KIT](../data/images/case169.jpg)
+
+**来源：** 未提供
+
+**提示词：**
+
+```text
+[中文]
+设计一套高质感游戏风 UI 套件，整体风格为深蓝色科技感二次元界面，配色以深海蓝、冰蓝、金色和白色为主，界面具有强烈的游戏感和高级感。
+
+内容包含：
+- 主按钮、次按钮、导航入口、状态栏、经验条、血条、装备栏和技能面板
+- 顶部导航模块、面板说明区、资源显示区、图标工具区和数值展示区
+- 各类图标要求清晰、统一、极简并带有蓝色发光效果
+- 面板边框采用高级金属感与冰晶质感，适合 RPG / ARPG / 游戏菜单场景
+- 整张图需要体现游戏 UI 设计规范，结构清晰，布局完整，视觉层级明确
+- 页面为整套 UI 设计图，适合直接用于游戏原型或界面参考
+
+[English]
+Design a premium game UI kit in a dark blue fantasy sci-fi style. Use deep navy, ice blue, gold, and white as the main palette. The interface should feel advanced, polished, and highly functional for a game menu or RPG HUD.
+
+Include:
+- primary buttons, secondary actions, navigation tabs, status panels, experience bars, health bars, equipment slots, and skill panels
+- a top navigation area, main stats panel, resource display board, icon toolbar, and value cards
+- crisp, uniform icons with subtle glow and clean game UI logic
+- metallic and crystalline frame details with premium fantasy aesthetic
+- strong hierarchy and modular layout suitable for a game interface design sheet
+- overall design should feel like a complete UI system sheet for game prototyping or product design reference
+```
+
+***
+
+<a name="case-170"></a>
+
+### 例 170：凡人修仙传人物关系图
+
+![凡人修仙传人物关系图](../data/images/case170.jpg)
+
+**来源：** 未提供
+
+**提示词：**
+
+```text
+[中文]
+创作一张竖向人物关系图信息图，主题为《凡人修仙传》，整体风格偏古风仙侠、清雅复古，纸张古朴、淡黄色底，带有传统手绘国风视觉感。
+
+画面构成：
+- 标题位于顶部，采用中国古风书法风字体，突出“凡人修仙传”主题
+- 中心人物是主角韩立，位于核心位置，人物边框采用圆形或椭圆的浮雕框，突出人物中心
+- 周围按照人物阵营与关系网络分组布局：师门与同门、修炼与人际关系、敌对与冲突、重要同伴与师门关系等
+- 每个人物卡片为圆形头像或半身肖像，搭配标准人物说明：名字、身份、关系定位、称号或能力描述
+- 关系线使用多种箭头和连接方式，形成清晰的因果与人物关联图
+- 底部与右侧加入修炼线路、门派世界观、修仙晋升路径等辅助信息图模块
+- 整体画风偏中国古风、文档型洁净布局、适合概念图和角色关系说明图
+
+[English]
+Create a vertical character relationship infographic inspired by the fantasy world of “A Mortal’s Journey to Immortality.” Use a refined Chinese xianxia style with warm paper tones, elegant classical composition, and clean infographic layout.
+
+The design should include:
+- a Chinese-style title at the top for the theme
+- a central focus on the main character, Han Li, in a prominent core card
+- surrounding character groups organized by mentor relationship, allies, enemies, key companions, and cultivation paths
+- circular portrait cards with names, roles, and short descriptions
+- flow lines and arrows connecting characters to show relationships and influence
+- supporting world-building sections such as cultivation roads, sect information, and major story blocks
+- a warm, archival, handcrafted aesthetic with premium editorial clarity
+```
+
+***
+
 <a name="case-174"></a>
 
 ### 例 174：唐朝贵妇遛粉色马甲异形工笔画
@@ -12412,7 +12486,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 539：像素游戏人物
 
-![像素游戏人物](../data/images/像素人物.png)
+![像素游戏人物](../data/images/case539.png)
 
 **来源：** zhang-jian.com
 
@@ -12449,7 +12523,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 540：像素瓦片素材
 
-![像素瓦片素材](../data/images/瓦片素材.png)
+![像素瓦片素材](../data/images/case540.png)
 
 **来源：** zhang-jian.com
 
@@ -12479,7 +12553,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 541：像素苏州园林素材
 
-![像素苏州园林素材](../data/images/苏州园林素材.png)
+![像素苏州园林素材](../data/images/case541.png)
 
 **来源：** zhang-jian.com
 
@@ -12516,7 +12590,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 542：像素风 UI 套件
 
-![像素风 UI 套件](../data/images/像素风 UI 套件.png)
+![像素风 UI 套件](../data/images/case542.png)
 
 **来源：** zhang-jian.com
 
@@ -12555,7 +12629,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 543：像素换装游戏素材
 
-![像素换装游戏素材](../data/images/换装游戏素材.png)
+![像素换装游戏素材](../data/images/case543.png)
 
 **来源：** zhang-jian.com
 
@@ -12592,7 +12666,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 544：像素作物成长素材
 
-![像素作物成长素材](../data/images/成长序列.png)
+![像素作物成长素材](../data/images/case544.png)
 
 **来源：** zhang-jian.com
 
